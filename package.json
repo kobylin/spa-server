@@ -1,7 +1,7 @@
 {
   "author": "Andrew Kobylin",
   "version": "0.0.1",
-  "name": "spa-server",
+  "name": "spa-server-cli",
   "homepage": "https://github.com/kobylin/spa-server",
   "keywords": [
     "spa",
