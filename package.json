@@ -1,0 +1,28 @@
+{
+  "author": "Andrew Kobylin",
+  "version": "0.0.1",
+  "name": "spa-server",
+  "homepage": "https://github.com/kobylin/spa-server",
+  "keywords": [
+    "spa",
+    "static server",
+    "angular"
+  ],
+  "description": "Static express server for hosting SPA application. Useful when you have html5 routing (without #)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobylin/spa-server.git"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "minimist": "^1.2.0"
+  },
+  "bin": {
+    "spa-server": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "license": "ISC"
+}
